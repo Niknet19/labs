@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(71): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikit\source\repos\lab0\lab0\main.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab0.vcxproj -> C:\Users\nikit\source\repos\Lab0\Release\Lab0.exe
