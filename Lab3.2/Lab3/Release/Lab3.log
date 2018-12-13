@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\nikit\desktop\лабы\lab3.2\lab3\main.cpp(12): warning C4101: temp: неиспользованная локальная переменная
+  Создание кода
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab3.vcxproj -> C:\Users\nikit\Desktop\Лабы\Lab3.2\Release\Lab3.exe
